@@ -1,0 +1,19 @@
+# ninja log v5
+1	1004	701729143	src/CMakeFiles/24_1_time_tracker.dir/main.cpp.obj	94370831e73662ff
+1004	3559	701729144	src/24_1_time_tracker.exe	78c11295c7b34c4b
+1	436	701730034	build.ninja	3a19aa5adba8f4ac
+1	373	701730034	src/CMakeFiles/24_1_time_tracker.dir/task.cpp.obj	9fbd5691d99eaac2
+9	850	701730035	src/CMakeFiles/24_1_time_tracker.dir/main.cpp.obj	94370831e73662ff
+850	2470	701730036	src/24_1_time_tracker.exe	362e2526296e8942
+1	336	701734409	build.ninja	3a19aa5adba8f4ac
+5	696	701734410	src/CMakeFiles/24_1_time_tracker.dir/task.cpp.obj	9fbd5691d99eaac2
+1	862	701734410	src/CMakeFiles/24_1_time_tracker.dir/main.cpp.obj	94370831e73662ff
+13	879	701734410	src/CMakeFiles/24_1_time_tracker.dir/functions.cpp.obj	3213d150c5626701
+879	2390	701734411	src/24_1_time_tracker.exe	48b5ef7979b802ed
+0	597	701734480	src/CMakeFiles/24_1_time_tracker.dir/functions.cpp.obj	3213d150c5626701
+597	1973	701734481	src/24_1_time_tracker.exe	48b5ef7979b802ed
+1	362	701734554	src/CMakeFiles/24_1_time_tracker.dir/task.cpp.obj	9fbd5691d99eaac2
+362	1535	701734555	src/24_1_time_tracker.exe	48b5ef7979b802ed
+6	561	701734800	src/CMakeFiles/24_1_time_tracker.dir/functions.cpp.obj	3213d150c5626701
+1	661	701734800	src/CMakeFiles/24_1_time_tracker.dir/main.cpp.obj	94370831e73662ff
+662	2079	701734800	src/24_1_time_tracker.exe	48b5ef7979b802ed
